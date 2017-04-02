@@ -9,7 +9,7 @@ Keep your measurements.
 Baby steps
 ==========
 
-- Update conversationbot2 for measurements
+- Debug measure_conversationbot for measurements
 - Choose storage for preferences and measurements
 - Auto-save user profile and preferences
 - Store measurements
